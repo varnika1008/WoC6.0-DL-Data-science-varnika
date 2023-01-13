@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>
+expense
+</title>
+<style>
+body {
+  background-color:  #FFC000;
+}
+#example1 {
+  border: 1px solid;
+  padding: 5px;
+  background-color: white;
+}
+table {
+  width: 20%;
+  border: 1px solid;
+}
+</style>
+</head>
+<body>
+<div id="example1">
+  <h1 align="center">Expense App</h1>
+</div><br><br><br><br>
+<table cellpadding="20">
+<tr bgcolor="#808080">
+<th colspan="2">new expense</th>
+</tr>
+<tfoot bgcolor="white">
+<tr>
+<td>expense 1</td>
+<td>40</td>
+</tr>
+<tr>
+<td>expense 2</td>
+<td>100</td>
+</tr></tfoot>
+</table>
+</body>
